@@ -7,4 +7,4 @@ You can:
 + Database: MySql
 + Language: PHP 
 + Framework: No
-+ Project for Software Technology
++ Project for Software Engineering Department
